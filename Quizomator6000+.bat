@@ -8,8 +8,8 @@ echo Select your language / Wybierz swoj jezyk
 echo.
 echo    1. English            2. Polski
 set /p={1;2}={1;2}
-if %{1;2}==1 goto f11
-if %{1;2}==2 goto f11eng
+if %{1;2}%==1 goto f11
+if %{1;2}%==2 goto f11eng
 
 
 :f11
