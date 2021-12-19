@@ -5,4 +5,5 @@
 # quizomator6000batchport
 A gaem for ma fren :)
 
-// BSoD at the end of this game is NOT real, so don't message me that I destroyed your computer
+# Remember
+This is a PLUS Version of this game created in [Batch](https://en.wikipedia.org/wiki/Batch_file), which can be easly edited in notepad or other Visual Studio Code type thing.
